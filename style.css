@@ -1,5 +1,5 @@
 html {
-    font-family: sans-serif;
+    font-family: Arial, sans-serif;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%
 }
@@ -224,7 +224,7 @@ body {
     padding: 0;
     background: #E9E8E4;
     font-size: 20px;
-    font-family: circular, sans-serif;
+    font-family: "Edu VIC WA NT Beginner", cursive;;
     color: #1d1d1b
 }
 
